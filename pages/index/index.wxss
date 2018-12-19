@@ -1,0 +1,31 @@
+/**index.wxss**/
+.ul li{
+  display: block;
+  width: 100%;
+  background-color: #666;
+  padding-left: 30px;
+  font-size: 20px;
+  margin-top:5px;
+  margin-top: 5px;
+  color:#fff;
+}
+.inp{
+  padding-left:20px;
+  display: block;
+  margin-left: 5px;
+  margin-right: 5px;
+  winth:70%;
+  height: 40px;
+  box-sizing: border-box;
+  border: 1px #eee solid;
+}
+.complete li{
+  background-color: #0f0;
+}
+h2{
+  padding-left: 20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-size: 20px; 
+  display: block;
+}
